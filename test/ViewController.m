@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"---第一次提交");
     //222
+    NSLog(@"第二次提交");
 }
 
 
